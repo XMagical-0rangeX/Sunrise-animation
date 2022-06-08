@@ -1,0 +1,10 @@
+img{
+    display: none;
+}
+canvas {
+    width: 1100px;
+    height: 1100px;
+}
+body {
+    text-align: center;
+}
